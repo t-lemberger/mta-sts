@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: mail.unbox.at
+mx: anymmail.at
+max_age: 604800
