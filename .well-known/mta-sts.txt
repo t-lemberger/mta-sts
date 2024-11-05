@@ -1,4 +1,5 @@
 version: STSv1
-mode: enforce
-max_age: 15552000
+mode: testing
+max_age: 86400
 mx: anymmail.at
+mx: mailbox.org
