@@ -2,4 +2,3 @@ version: STSv1
 mode: enforce
 max_age: 15552000
 mx: anymmail.at
-mx: mail.unbox.at
